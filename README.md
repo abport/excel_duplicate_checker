@@ -1,5 +1,12 @@
-# Python script that allows you to easily compare two Excel files and check for duplicate values.
 
+# Excel Duplicate Checker
+
+ - This repository contains a Python script that allows you to easily compare two Excel files and check for duplicate values.  
+ - The script uses the openpyxl library to work with Excel files and can be easily modified to suit your specific needs.  
+ - It is useful for finding duplicate entries in large datasets, keeping track of inventory and much more.  
+ - The script is well commented and easy to understand, making it a great tool for beginners as well.
+
+**Explanation**:
 
 Hello everyone! Today, we're going to talk about a really cool program that helps us work with Excel files.
 
